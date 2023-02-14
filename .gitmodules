@@ -1,0 +1,3 @@
+[submodule "react-strapi-blog"]
+	path = react-strapi-blog
+	url = https://github.com/TECHCROWDMY/react-strapi-blog.git
